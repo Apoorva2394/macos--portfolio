@@ -1,16 +1,137 @@
-# React + Vite
+# macOS Portfolio Website 🍎💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **macOS-inspired portfolio website** built with **React** that mimics a desktop operating system experience.  
+It features draggable windows, a dynamic dock, an interactive terminal, and smooth animations — all inside the browser.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🖥️ **macOS-like Desktop UI**
+  - Draggable & resizable windows
+  - Window controls (close, minimize, maximize)
+  - Window focus & layering (z-index)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🚀 **Dock Navigation**
+  - Hover animations like macOS
+  - Tooltips on hover
+  - Open apps directly from the dock
 
-## Expanding the ESLint configuration
+- 🧑‍💻 **Interactive Terminal (CLI)**
+  - Custom commands (`about`, `skills`, `projects`, `experience`, etc.)
+  - Terminal-style UI
+  - Portfolio navigation via CLI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📂 **GitHub Projects Window**
+  - Scrollable project cards
+  - Modern card UI
+  - Data-driven using JSON
+
+- 🎵 **Spotify Window**
+  - Embedded Spotify player
+
+- 📄 **Resume Window**
+  - Resume preview / download
+
+- 📱 **Responsive Design**
+  - Optimized for desktop & tablet
+  - Graceful fallback for smaller screens
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript
+- **Styling:** SCSS (Sass)
+- **Window Management:** `react-rnd`
+- **Terminal Emulator:** `react-console-emulator`
+- **Build Tool:** Vite
+- **Version Control:** Git & GitHub
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/Apoorva2394/Macos---portfolio.git
+cd Macos---portfolio
+
+```bash
+npm install
+
+```bash
+npm run dev# macOS Portfolio Website 🍎💻
+
+A **macOS-inspired portfolio website** built with **React** that mimics a desktop operating system experience.  
+It features draggable windows, a dynamic dock, an interactive terminal, and smooth animations — all inside the browser.
+
+---
+
+## ✨ Features
+
+- 🖥️ **macOS-like Desktop UI**
+  - Draggable & resizable windows
+  - Window controls (close, minimize, maximize)
+  - Window focus & layering (z-index)
+
+- 🚀 **Dock Navigation**
+  - Hover animations like macOS
+  - Tooltips on hover
+  - Open apps directly from the dock
+
+- 🧑‍💻 **Interactive Terminal (CLI)**
+  - Custom commands (`about`, `skills`, `projects`, `experience`, etc.)
+  - Terminal-style UI
+  - Portfolio navigation via CLI
+
+- 📂 **GitHub Projects Window**
+  - Scrollable project cards
+  - Modern card UI
+  - Data-driven using JSON
+
+- 🎵 **Spotify Window**
+  - Embedded Spotify player
+
+- 📄 **Resume Window**
+  - Resume preview / download
+
+- 📱 **Responsive Design**
+  - Optimized for desktop & tablet
+  - Graceful fallback for smaller screens
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript
+- **Styling:** SCSS (Sass)
+- **Window Management:** `react-rnd`
+- **Terminal Emulator:** `react-console-emulator`
+- **Build Tool:** Vite
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/Apoorva2394/Macos---portfolio.git
+cd Macos---portfolio
+
+```
+
+
+- Author
+
+Apoorva Gupta
+
+GitHub: https://github.com/Apoorva2394
+
+LinkedIn: https://linkedin.com/in/apoorva2394
