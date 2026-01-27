@@ -1,4 +1,4 @@
-# macOS Portfolio Website 🍎💻
+# macOS Portfolio Website 💻
 
 A **macOS-inspired portfolio website** built with **React** that mimics a desktop operating system experience.  
 It features draggable windows, a dynamic dock, an interactive terminal, and smooth animations — all inside the browser.
