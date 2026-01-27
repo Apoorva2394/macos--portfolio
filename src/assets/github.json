@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1000",
+    "title": "Personal Portfolio Website",
+    "description": "A responsive personal portfolio website showcasing projects, skills, and contact information with a clean modern UI.",
+    "tags": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+    "repoLink": "https://github.com/Apoorva2394/portfolio_website",
+    "demoLink": null
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?auto=format&fit=crop&q=80&w=1000",
+    "title": "Dribbble UI Clone",
+    "description": "A frontend clone of Dribbble focusing on layout accuracy, modern UI components, and responsive design techniques.",
+    "tags": ["HTML", "CSS", "JavaScript", "UI Design"],
+    "repoLink": "https://github.com/Apoorva2394/Dribbble_clone",
+    "demoLink": null
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=1000",
+    "title": "Snake Game (JavaScript)",
+    "description": "A classic snake game implemented using vanilla JavaScript with keyboard controls, score tracking, and collision logic.",
+    "tags": ["JavaScript", "HTML Canvas", "Game Logic"],
+    "repoLink": "https://github.com/Apoorva2394/snake_game_using_javascript",
+    "demoLink": null
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=1000",
+    "title": "Kanban Task Board",
+    "description": "A simple Kanban board application for managing tasks across different stages using an intuitive drag-and-drop interface.",
+    "tags": ["React", "JavaScript", "CSS", "State Management"],
+    "repoLink": "https://github.com/Apoorva2394/My_Kanban_Board",
+    "demoLink": null
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&q=80&w=1000",
+    "title": "Virtual Piano Web App",
+    "description": "An interactive virtual piano built using JavaScript that allows users to play notes via keyboard and mouse with real-time audio feedback.",
+    "tags": ["JavaScript", "HTML", "CSS", "Audio API"],
+    "repoLink": "https://github.com/Apoorva2394/virtual_piano",
+    "demoLink": null
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?auto=format&fit=crop&q=80&w=1000",
+    "title": "RAG System for Fitness",
+    "description": "A Retrieval-Augmented Generation (RAG) system focused on the fitness domain, enabling intelligent question answering using document retrieval and language models.",
+    "tags": ["Python", "RAG", "LLM", "NLP", "AI"],
+    "repoLink": "https://github.com/Apoorva2394/RAG_System_fitness",
+    "demoLink": null
+  }
+  
+]
